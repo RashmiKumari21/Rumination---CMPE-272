@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.rashmikumari.us/index.html</loc>
-    <lastmod>2020-03-11</lastmod>
+    <lastmod>2020-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,14 +19,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.rashmikumari.us/indulge.html</loc>
-    <lastmod>2020-03-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.rashmikumari.us/news.html</loc>
-    <lastmod>2020-03-11</lastmod>
+    <lastmod>2020-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -50,7 +44,7 @@
   </url>
   <url>
     <loc>http://www.rashmikumari.us/services.html</loc>
-    <lastmod>2020-03-11</lastmod>
+    <lastmod>2020-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -73,8 +67,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.rashmikumari.us/about.html</loc>
+    <loc>http://www.rashmikumari.us/protected.html</loc>
     <lastmod>2020-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.rashmikumari.us/about.html</loc>
+    <lastmod>2020-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -97,17 +97,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.rashmikumari.us/contact.html</loc>
-    <lastmod>2020-03-11</lastmod>
+    <loc>http://www.rashmikumari.us/indulge.html</loc>
+    <lastmod>2020-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.rashmikumari.us/images/my%20post%20(3).jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.rashmikumari.us/login.html</loc>
-    <lastmod>2020-03-11</lastmod>
+    <lastmod>2020-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,8 +118,23 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.rashmikumari.us/protected.html</loc>
-    <lastmod>2020-03-11</lastmod>
+    <loc>http://www.rashmikumari.us/users.html</loc>
+    <lastmod>2020-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.rashmikumari.us/contact.html</loc>
+    <lastmod>2020-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.rashmikumari.us/images/my%20post%20(3).jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.rashmikumari.us/assets/my-post-(10).png</loc>
+    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -135,12 +147,6 @@
   <url>
     <loc>http://www.rashmikumari.us/assets/my-post-(2).jpg</loc>
     <lastmod>2020-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.rashmikumari.us/assets/my-post-(10).png</loc>
-    <lastmod>2020-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,25 +1,27 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rashmikumari.us" resolutions="1x" timestamp="1583911681147">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rashmikumari.us" resolutions="1x" timestamp="1585034355207">
   <folder name="css">
     <file name="site_global.css" crc="4235893186"/>
-    <file name="master_main-master.css" crc="401286262" ref="contact:services:indulge:login:news:index:about"/>
-    <file name="nomq_preview_master_main-master.css" crc="3824530138" ref="contact:services:indulge:login:news:index:about"/>
-    <file name="master_interior-master.css" crc="79821569" ref="contact:services:indulge:login:news:about"/>
-    <file name="nomq_preview_master_interior-master.css" crc="4197457786" ref="contact:services:indulge:login:news:about"/>
-    <file name="contact.css" crc="3784937404" ref="contact"/>
-    <file name="nomq_contact.css" crc="294445994" ref="contact"/>
-    <file name="services.css" crc="48789994" ref="services"/>
-    <file name="nomq_services.css" crc="194361117" ref="services"/>
-    <file name="indulge.css" crc="4191757788" ref="indulge"/>
-    <file name="nomq_indulge.css" crc="252599647" ref="indulge"/>
-    <file name="login.css" crc="4200628781" ref="login"/>
-    <file name="nomq_login.css" crc="3921332427" ref="login"/>
-    <file name="news.css" crc="4238077956" ref="news"/>
-    <file name="nomq_news.css" crc="271748181" ref="news"/>
-    <file name="index.css" crc="4245416529" ref="index"/>
-    <file name="nomq_index.css" crc="134276991" ref="index"/>
+    <file name="master_interior-master.css" crc="295594422" ref="services:about:contact:indulge:users:login:news"/>
+    <file name="nomq_preview_master_interior-master.css" crc="4197457786" ref="services:about:contact:indulge:users:login:news"/>
+    <file name="master_main-master.css" crc="526709971" ref="index:services:about:contact:indulge:users:login:news"/>
+    <file name="nomq_preview_master_main-master.css" crc="3824530138" ref="index:services:about:contact:indulge:users:login:news"/>
+    <file name="index.css" crc="4129922606" ref="index"/>
+    <file name="nomq_index.css" crc="50163226" ref="index"/>
+    <file name="services.css" crc="4043113798" ref="services"/>
+    <file name="nomq_services.css" crc="311203451" ref="services"/>
+    <file name="about.css" crc="3782667300" ref="about"/>
+    <file name="nomq_about.css" crc="4082211691" ref="about"/>
     <file name="protected.css" crc="305957045" ref="protected"/>
-    <file name="about.css" crc="479989927" ref="about"/>
-    <file name="nomq_about.css" crc="3865086126" ref="about"/>
+    <file name="contact.css" crc="218786037" ref="contact"/>
+    <file name="nomq_contact.css" crc="4292817277" ref="contact"/>
+    <file name="indulge.css" crc="3897686493" ref="indulge"/>
+    <file name="nomq_indulge.css" crc="351727955" ref="indulge"/>
+    <file name="users.css" crc="3844289106" ref="users"/>
+    <file name="nomq_users.css" crc="73421646" ref="users"/>
+    <file name="login.css" crc="207718734" ref="login"/>
+    <file name="nomq_login.css" crc="75893415" ref="login"/>
+    <file name="news.css" crc="4286989472" ref="news"/>
+    <file name="nomq_news.css" crc="178577215" ref="news"/>
   </folder>
   <folder name="assets">
     <file name="my-post-(10).png" crc="190551609" seo="true" mt="1583318232000"/>
@@ -27,19 +29,19 @@
     <file name="my-post-(2).jpg" crc="3810634352" seo="true" mt="1583308653000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:indulge:news:services:contact:login:protected"/>
-    <file name="museutils.js" crc="3939489907" ref="index:about:indulge:news:services:contact:login:protected"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:indulge:news:services:contact:login:protected"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:about:indulge:news:services:contact:login:protected"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:about:indulge:news:services:contact:login:protected"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:indulge:news:services:contact:login:protected:users"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:indulge:news:services:contact:login:protected:users"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:indulge:news:services:contact:login:protected:users"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:indulge:news:services:contact:login:protected:users"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:indulge:news:services:contact:login:protected:users"/>
     <file name="webpro.js" crc="3856315280" ref="index:news:login"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index:news:login"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index:news:login"/>
     <file name="touchswipe.js" crc="3888935200" ref="index:news:login"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about:indulge:news:services:contact:login:protected"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:indulge:news:services:contact:login:protected"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="require.js" crc="4177726516" ref="index:about:indulge:news:services:contact:login:protected"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about:indulge:news:services:contact:login:protected:users"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:indulge:news:services:contact:login:protected:users"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="require.js" crc="4177726516" ref="index:about:indulge:news:services:contact:login:protected:users"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="indulge:news:contact"/>
     <file name="form_check.php" crc="4108222811" ref="login"/>
     <file name="form_throttle.php" crc="503802655" ref="login"/>
@@ -54,7 +56,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:about:indulge:news:services:contact:login"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:indulge:news:services:contact:login:users"/>
     <file name="my post (11).jpg" crc="270392696" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -93,38 +95,42 @@
     </file>
     <file name="next_kah_01-u6716-3-r-fr.png" crc="376305040" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:login"/>
-    <file name="u360_states.png" crc="4260307007" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u360_states-r.png" crc="4290759223" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u360_states-a.png" crc="3776950977" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u381.png" crc="184725241" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u381-r.png" crc="3786292144" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u381-m.png" crc="3786292144" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u381-a.png" crc="369110114" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31493.png" crc="409914818" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31493-r.png" crc="17513483" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31493-m.png" crc="17513483" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31493-a.png" crc="3897971631" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31561.png" crc="4217097454" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31561-r.png" crc="498836008" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31561-m.png" crc="498836008" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31561-a.png" crc="4165223157" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31622.png" crc="86658567" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31622-r.png" crc="221478423" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31622-m.png" crc="221478423" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31622-a.png" crc="4243303466" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31684.png" crc="288929544" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31684-r.png" crc="527696411" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31684-m.png" crc="527696411" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u31684-a.png" crc="369357295" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u24278.png" crc="152187218" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u24278-r.png" crc="439614171" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u24278-m.png" crc="439614171" ref="index:about:indulge:news:services:contact:login"/>
-    <file name="u24278-a.png" crc="4283156035" ref="index:about:indulge:news:services:contact:login"/>
+    <file name="u360_states.png" crc="4260307007" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u360_states-r.png" crc="4290759223" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u360_states-a.png" crc="3776950977" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u381.png" crc="184725241" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u381-r.png" crc="3786292144" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u381-m.png" crc="3786292144" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u381-a.png" crc="369110114" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31493.png" crc="409914818" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31493-r.png" crc="17513483" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31493-m.png" crc="17513483" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31493-a.png" crc="3897971631" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31561.png" crc="4217097454" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31561-r.png" crc="498836008" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31561-m.png" crc="498836008" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31561-a.png" crc="4165223157" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31622.png" crc="86658567" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31622-r.png" crc="221478423" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31622-m.png" crc="221478423" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31622-a.png" crc="4243303466" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31684.png" crc="288929544" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31684-r.png" crc="527696411" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31684-m.png" crc="527696411" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u31684-a.png" crc="369357295" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u24278.png" crc="152187218" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u24278-r.png" crc="439614171" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u24278-m.png" crc="439614171" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u24278-a.png" crc="4283156035" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u33276.png" crc="3925651934" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u33276-r.png" crc="4211128321" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u33276-m.png" crc="4211128321" ref="index:about:indulge:news:services:contact:login:users"/>
+    <file name="u33276-a.png" crc="3883518189" ref="index:about:indulge:news:services:contact:login:users"/>
     <file name="my post (4)-crop-u13374.jpg" crc="4053305615" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u4212_states.png" crc="39687673" ref="about:indulge:news:services:contact:login"/>
-    <file name="u4212_states-r.png" crc="4048631134" ref="about:indulge:news:services:contact:login"/>
+    <file name="u4212_states.png" crc="39687673" ref="about:indulge:news:services:contact:login:users"/>
+    <file name="u4212_states-r.png" crc="4048631134" ref="about:indulge:news:services:contact:login:users"/>
     <file name="my post (4)-crop-u133742.jpg" crc="4287416048" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -643,12 +649,13 @@
       <caption webpage="login" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="413542488" seo="true" mt="1583911134463" redirect="true"/>
-  <file name="about.html" crc="119935370" seo="true" mt="1583911134463" redirect="true"/>
-  <file name="indulge.html" crc="202316173" seo="true" mt="1583911179497" redirect="true"/>
-  <file name="news.html" crc="73047014" seo="true" mt="1583911172969" redirect="true"/>
-  <file name="services.html" crc="4032728251" seo="true" mt="1583911168169" redirect="true"/>
-  <file name="contact.html" crc="200560430" seo="true" mt="1583911160760" redirect="true"/>
-  <file name="login.html" crc="3800879068" seo="true" mt="1583911134463" redirect="true"/>
+  <file name="index.html" crc="180114833" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="about.html" crc="250367096" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="indulge.html" crc="3941277587" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="news.html" crc="135919478" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="services.html" crc="348889580" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="contact.html" crc="94954025" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="login.html" crc="423922157" seo="true" mt="1585034236525" redirect="true"/>
   <file name="protected.html" crc="269841773" seo="true" mt="1583911508466" redirect="true"/>
+  <file name="users.html" crc="15836998" seo="true" mt="1585034236525" redirect="true"/>
 </manifest>

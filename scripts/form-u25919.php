@@ -11,7 +11,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Login Form Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => 'protected.html',
+	'success_redirect' => 'indulge.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
