@@ -1,0 +1,126 @@
+.version.sing4 {
+  color: #000002;
+  background-color: #6fbb50;
+}
+#muse_css_mq {
+  background-color: #ffffff;
+}
+#page {
+  z-index: 1;
+  min-height: 500px;
+  background-image: none;
+  border-width: 0px;
+  border-color: #000000;
+  background-color: transparent;
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#u1863 {
+  z-index: 2;
+  background-color: transparent;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 16px;
+  width: 43.09%;
+  left: 1.76%;
+}
+#u1863_img {
+  width: 100%;
+}
+#pu1865-16 {
+  z-index: 4;
+  margin-right: -10000px;
+  margin-top: 16px;
+  width: 51.34%;
+  margin-left: 45.75%;
+}
+#u1865-16 {
+  z-index: 4;
+  min-height: 451px;
+  background-color: transparent;
+  font-size: 24px;
+  color: #ffffff;
+  line-height: 29px;
+  position: relative;
+  margin-right: -10000px;
+  width: 100%;
+}
+#buttonu1866 {
+  z-index: 20;
+  border-width: 0px;
+  border-color: transparent;
+  background-color: #0071bc;
+  opacity: 0.58;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=57.99999999999999)";
+  filter: alpha(opacity=57.99999999999999);
+  border-radius: 10px;
+  padding-bottom: 13px;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 403px;
+  width: 37.99%;
+  left: 31.99%;
+}
+#buttonu1866:hover {
+  background-color: #141414;
+  min-height: 0px;
+  width: 37.99%;
+  margin: 403px -10000px 0px 0%;
+}
+#buttonu1866.ButtonSelected {
+  background-color: #0071bc;
+  min-height: 0px;
+  width: 37.99%;
+  margin: 403px -10000px 0px 0%;
+}
+#u1867-4 {
+  z-index: 21;
+  min-height: 23px;
+  background-color: transparent;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  color: #ffffff;
+  text-align: center;
+  font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+  font-weight: bold;
+  position: relative;
+  margin-right: -10000px;
+  margin-top: 14px;
+  width: 63.68%;
+  left: 18.38%;
+}
+#buttonu1866:hover #u1867-4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  min-height: 23px;
+  width: 63.68%;
+  margin: 14px -10000px 0px 0%;
+}
+#buttonu1866.ButtonSelected #u1867-4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  min-height: 23px;
+  width: 63.68%;
+  margin: 14px -10000px 0px 0%;
+}
+#buttonu1866:hover #u1867-4 p {
+  color: #ffffff;
+  visibility: inherit;
+}
+#buttonu1866.ButtonSelected #u1867-4 p {
+  color: #ffffff;
+  visibility: inherit;
+}
+.css_verticalspacer .verticalspacer {
+  height: calc(100vh - 499px);
+}
+.html {
+  background-color: #000000;
+}
+body {
+  position: relative;
+  min-width: 320px;
+}

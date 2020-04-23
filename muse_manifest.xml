@@ -653,9 +653,9 @@
   <file name="about.html" crc="250367096" seo="true" mt="1585034236525" redirect="true"/>
   <file name="indulge.html" crc="3941277587" seo="true" mt="1585034236525" redirect="true"/>
   <file name="news.html" crc="135919478" seo="true" mt="1585034236525" redirect="true"/>
-  <file name="services.html" crc="348889580" seo="true" mt="1585034236525" redirect="true"/>
-  <file name="contact.html" crc="94954025" seo="true" mt="1585034236525" redirect="true"/>
-  <file name="login.html" crc="423922157" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="services.php" crc="348889580" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="contact.php" crc="94954025" seo="true" mt="1585034236525" redirect="true"/>
+  <file name="login.php" crc="423922157" seo="true" mt="1585034236525" redirect="true"/>
   <file name="protected.html" crc="269841773" seo="true" mt="1583911508466" redirect="true"/>
   <file name="users.html" crc="15836998" seo="true" mt="1585034236525" redirect="true"/>
 </manifest>

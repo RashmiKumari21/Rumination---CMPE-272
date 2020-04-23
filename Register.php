@@ -41,14 +41,11 @@ hr {
 
 /* Set a style for the submit button */
 .registerbtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 16px 20px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  opacity: 0.9;
+  background-color: black;
+      color: white;
+      padding: 1em 1.5em;
+      text-decoration: none;
+      text-transform: uppercase;
 }
 
 .registerbtn:hover {
@@ -78,22 +75,22 @@ a {
     <hr>
 
     <label for="First Name"><b>First Name</b></label>
-    <input type="text" placeholder="Enter First Name" name="fname" required>
+    <input type="text" placeholder="Enter First Name" name="fname"  maxlength="50" required>
 
     <label for="Last Name"><b>Last Name</b></label>
-    <input type="text" placeholder="Enter Last Name" name="lname" required>
+    <input type="text" placeholder="Enter Last Name" name="lname"  maxlength="50" required>
 
     <label for="Address"><b>Address</b></label>
-    <input type="text" placeholder="Enter Address" name="address" required>
+    <input type="text" placeholder="Enter Address"  maxlength="800" name="address" required>
 
     <label for="Home Phone"><b>Home Phone</b></label>
-    <input type="number" placeholder="Enter Home Phone" name="homePhone" required> 
+    <input type="text" pattern="\d*"  placeholder="Enter Home Phone"  maxlength="10" name="homePhone" required> 
 
     <label for="Cell Phone"><b>Cell Phone</b></label>
-    <input type="number" placeholder="Enter Cell Phone" name="cellPhone" required>
+    <input type="text" pattern="\d*"  placeholder="Enter Cell Phone" name="cellPhone"  maxlength="10" required>
 
     <label for="Email"><b>Email</b></label>
-    <input type="email" placeholder="Enter Email" name="email" required>
+    <input type="email" placeholder="Enter Email"  maxlength="50" name="email" required>
 
     <hr>
    
